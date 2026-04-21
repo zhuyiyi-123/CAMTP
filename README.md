@@ -1,4 +1,4 @@
-<h1 align="center"> A Constraint-Aware Multi-Agent Framework with Robust DSL Generation for Travel Planning </h1>
+<h1 align="center"> A Constraint-Aware Multi-Agent Optimization Framework with Robust Domain Specific Language Generation for Travel Planning </h1>
 
 This is the official codebase for the paper "**A Constraint-Aware Multi-Agent Optimization Framework with Robust Domain Specific Language Generation for Travel Planning**".
 
