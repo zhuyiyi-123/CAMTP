@@ -46,4 +46,6 @@ The upstream project can be found here:
 
 Once placed in this directory, all modules in this repository can be directly imported and executed within the ChinaTravel project without additional configuration.
 
+If you need access to the two-stage datasets used in the competition, they are available at the following link: \url{https://chinatravel-competition.github.io/IJCAI2025/}
+
 
